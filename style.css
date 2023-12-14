@@ -29,12 +29,12 @@ main .top{
     margin-bottom: 40px;
 }
 main .top p:first-of-type{
-    font-size: 2.3rem;
+    font-size: 30px;
     font-weight: 200;
     color: var(--Very-Dark-Blue);
 }
 main .top p:nth-child(2){
-    font-size: 2.3rem;
+    font-size: 30px;
     font-weight: 600;   
     color: var(--Very-Dark-Blue);
 }
@@ -68,12 +68,12 @@ main .cards .card img{
 }
 main .cards .card .heading{
     font-weight: 600;
-    font-size: 1.3rem;
+    font-size: 30px;
 }
 main .cards .card p{
     font-weight: 200;
     width: 90%;
-    font-size: 1rem;
+    font-size: 16px;
 }
 main .cards .card-1{
     border-top: var(--Cyan) 4px solid;
@@ -99,10 +99,10 @@ main .cards .center-sec{
         padding: 20px;
     }
     main .top p:first-of-type{
-        font-size: 2rem;
+        font-size: 30px;
     }
     main .top p:nth-child(2){
-        font-size: 2rem;
+        font-size: 30px;
     }
     main .top p:last-of-type{
         padding: 10px;
@@ -127,7 +127,7 @@ main .cards .center-sec{
         width: 90%;
     }
     main .cards .card p{
-        font-size: 0.9rem;
+        font-size: 16px;
 
     }
 
