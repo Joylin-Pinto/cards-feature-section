@@ -16,7 +16,7 @@ body{
     font-family: 'Poppins', sans-serif;
     display: grid;
     place-items: center;
-    min-height: 100vh;
+    height: 100vh;
     font-size: 15px;
     background-color: var(--Very-light-gray);
 }
@@ -95,8 +95,7 @@ main .cards .center-sec{
 
 @media (max-width:675px) and (min-width:100px) {
     main {
-        width: 100%;
-        padding: 20px;
+        width: 100%; padding: 20px;
     }
     main .top p:first-of-type{
         font-size: 30px;
